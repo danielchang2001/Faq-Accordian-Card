@@ -1,4 +1,4 @@
-# Front-end Style Guide
+2# Front-end Style Guide
 
 ## Layout
 
